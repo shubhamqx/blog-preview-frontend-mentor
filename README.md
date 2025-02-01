@@ -21,8 +21,8 @@ It's fully responsive and looks good on both mobile and desktop.
 Make a card preview for a blog post using HTML and CSS, Similar to the design provided by Frontend Mentor. The card should be responsive and be mobile-friendly.
 ### Links
 
-- Solution URL: [Blog Preview Card Solution](https://your-solution-url.com)
-- Live Site URL: [View live the Card](https://your-live-site-url.com)
+- Solution URL: [Blog Preview Card Solution](https://github.com/shubhamqx/blog-preview-frontend-mentor)
+- Live Site URL: [View live the Card](https://shubhamqx.github.io/blog-preview-frontend-mentor/)
 
 ## My process
 - First I reviewed the design and design guide provided by Frontend Mentor which helped me to understand the layout.
